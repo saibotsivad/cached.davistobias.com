@@ -1,0 +1,11 @@
+markdown: kramdown
+kramdown:
+  smart_quotes: [ "apos", "apos", "quot", "quot" ]
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+exclude: [ "Gemfile", "Gemfile.lock", "readme.md" ]
+name: "Cached Pages"
+description: "A site to hold things that I don't want to lose to the ravages of the internet."
+url: "http://cached.davistobias.com"
+permalink: pretty

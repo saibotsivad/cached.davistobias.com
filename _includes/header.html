@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="/style.css?v=1">
+		<script>
+			// If the user lands here using a historic URL, we forward
+			// them to the appopriate new URL.
+			var historicRoutes = {
+				'#!/steve-yegge-rant.md': '/content/steve-yegge-rant',
+				'#!/last-true-hermit.md': '/content/last-true-hermit',
+				'#!/revelation-pickering.md': '/content/revelation-pickering',
+				'#!/why-cards-are-the-future.md': '/content/why-cards-are-the-future'
+			}
+			var forward = location && location.hash && historicRoutes[location.hash]
+			if (forward) {
+				console.log('Forwarding to:', forward)
+				window.location.href = forward
+			}
+		</script>
+	</head>
+	<body>

@@ -1,7 +1,11 @@
+---
 title: Stevey's Google Platforms Rant
 source: https://plus.google.com/+RipRowan/posts/eVeouesvaVX
 accessed: 2014-11-02 21:57
 author: Steve Yegge
+published: true
+layout: article
+---
 
 
 > **UPDATE**
