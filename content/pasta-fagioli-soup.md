@@ -20,8 +20,13 @@
 
 1. if using fresh beans, prepare in advance
 2. heat oil in pot, add onion, garlic, carrots, celery, thyme, 1/4 tsp salt, then saute until veggies are soft
-3. add red pepper flakes, tomatoes, pasta, cooked beans, and remaining salt, bring to boil
+3. add vegetable stock, red pepper flakes, tomatoes, pasta, cooked beans, and remaining salt, bring to boil
 4. simmer for 20 minutes
 5. remove thyme sprigs if using fresh, then add vinegar
 
 Serve with crusty bread and pinot noir for full effect.
+
+## modifications
+
+- We enjoy more pasta, so upped the datilini to 2 cups overall
+- You can never go wrong with more onion, we just use half of a medium yellow, which is about a cup worth
