@@ -1,5 +1,7 @@
 # Pasta Fagioli Soup
 
+Makes 6 moderate to large sized bowls.
+
 ## ingredients
 
 - 3 cup kidney bean (18 ounce cooked)
