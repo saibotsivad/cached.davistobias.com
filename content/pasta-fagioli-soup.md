@@ -5,7 +5,7 @@ Makes 6 moderate to large sized bowls.
 ## ingredients
 
 - 3 cup kidney bean (18 ounce cooked)
-- 1 cup pasta (small, such as datilini, macaroni, pinwheel, etc.)
+- 1 cup pasta (small, such as ditalini, macaroni, pinwheel, etc.)
 - 2 Tbsp red wine vinegar
 - 1/2 tsp red pepper flakes
 - 2 Tbsp olive oil
@@ -30,5 +30,5 @@ Serve with crusty bread and pinot noir for full effect.
 
 ## modifications
 
-- We enjoy more pasta, so upped the datilini to 2 cups overall
+- We enjoy more pasta, so upped the ditalini to 2 cups overall
 - You can never go wrong with more onion, we just use half of a medium yellow, which is about a cup worth
